@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839777405216",
+    "firebase_url": "https://gimbalpoc-e16d4.firebaseio.com",
+    "project_id": "gimbalpoc-e16d4",
+    "storage_bucket": "gimbalpoc-e16d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839777405216:android:26147ccbed89bf02",
+        "android_client_info": {
+          "package_name": "com.poc.gimbal.korcomptenz.gimbalpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839777405216-9lo2c5t9d1gro65j96tmsgml01cucn13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poc.gimbal.korcomptenz.gimbalpoc",
+            "certificate_hash": "2c9c415d4fa3ae2a175dbed6d334b99ccc10e8cc"
+          }
+        },
+        {
+          "client_id": "839777405216-vagmvb74ehdedfrf6f6lg6a22snnelrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-oN1X2HWvz5RuA-8641tTe68mIRBV0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839777405216-vagmvb74ehdedfrf6f6lg6a22snnelrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
